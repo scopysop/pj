@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: rgb(228, 193, 193);
+    background-color: rgb(238, 166, 142);
 }
 
 main {
@@ -12,6 +12,9 @@ main {
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px rgb(45, 45, 45);
+    box-shadow: 3px 3px 5px rgb(68, 67, 67);
 }
 
+img.lado{
+    float: right;
+}
